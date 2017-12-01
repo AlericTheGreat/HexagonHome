@@ -1,13 +1,13 @@
 [gd_scene load_steps=9 format=1]
 
-[ext_resource path="res://Assest/Images/hexagon.png" type="Texture" id=1]
-[ext_resource path="res://Assest/Images/hexagon2.png" type="Texture" id=2]
-[ext_resource path="res://Assest/Images/hexagonHome.png" type="Texture" id=3]
-[ext_resource path="res://Assest/Images/hexagonWater.png" type="Texture" id=4]
-[ext_resource path="res://Assest/Images/hexagonBridge.png" type="Texture" id=5]
-[ext_resource path="res://Assest/Images/hexagonLava.png" type="Texture" id=6]
-[ext_resource path="res://Assest/Images/hexagonGround.png" type="Texture" id=7]
-[ext_resource path="res://Assest/Images/hexagonObsibian.png" type="Texture" id=8]
+[ext_resource path="res://Assets/Images/hexagon.png" type="Texture" id=1]
+[ext_resource path="res://Assets/Images/hexagon2.png" type="Texture" id=2]
+[ext_resource path="res://Assets/Images/hexagonHome.png" type="Texture" id=3]
+[ext_resource path="res://Assets/Images/hexagonWater.png" type="Texture" id=4]
+[ext_resource path="res://Assets/Images/hexagonBridge.png" type="Texture" id=5]
+[ext_resource path="res://Assets/Images/hexagonLava.png" type="Texture" id=6]
+[ext_resource path="res://Assets/Images/hexagonGround.png" type="Texture" id=7]
+[ext_resource path="res://Assets/Images/hexagonObsibian.png" type="Texture" id=8]
 
 [node name="Node" type="Node2D"]
 

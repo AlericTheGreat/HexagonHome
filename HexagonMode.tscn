@@ -1,13 +1,13 @@
 [gd_scene load_steps=9 format=1]
 
 [ext_resource path="res://HexagonMode.gd" type="Script" id=1]
-[ext_resource path="res://Assest/Images/BackgroundTitle.png" type="Texture" id=2]
-[ext_resource path="res://Assest/Images/OriginalButton.png" type="Texture" id=3]
-[ext_resource path="res://Assest/Images/OriginalButton2.png" type="Texture" id=4]
-[ext_resource path="res://Assest/Images/BiggermapButton.png" type="Texture" id=5]
-[ext_resource path="res://Assest/Images/BiggermapButton_Click.png" type="Texture" id=6]
-[ext_resource path="res://Assest/Images/NofileButton.png" type="Texture" id=7]
-[ext_resource path="res://Assest/Images/Backbutton.png" type="Texture" id=8]
+[ext_resource path="res://Assets/Images/BackgroundTitle.png" type="Texture" id=2]
+[ext_resource path="res://Assets/Images/OriginalButton.png" type="Texture" id=3]
+[ext_resource path="res://Assets/Images/OriginalButton2.png" type="Texture" id=4]
+[ext_resource path="res://Assets/Images/BiggermapButton.png" type="Texture" id=5]
+[ext_resource path="res://Assets/Images/BiggermapButton_Click.png" type="Texture" id=6]
+[ext_resource path="res://Assets/Images/NofileButton.png" type="Texture" id=7]
+[ext_resource path="res://Assets/Images/Backbutton.png" type="Texture" id=8]
 
 [node name="HexagonMode" type="Node2D"]
 

@@ -1,11 +1,11 @@
 [gd_scene load_steps=8 format=1]
 
 [ext_resource path="res://PlayerBlue.gd" type="Script" id=1]
-[ext_resource path="res://Assest/Images/player_blue.png" type="Texture" id=2]
-[ext_resource path="res://Assest/Images/rotation_arrow.png" type="Texture" id=3]
-[ext_resource path="res://Assest/Images/btnMove.png" type="Texture" id=4]
-[ext_resource path="res://Assest/Images/MovementPoint.png" type="Texture" id=5]
-[ext_resource path="res://Assest/Images/DiceDot.png" type="Texture" id=6]
+[ext_resource path="res://Assets/Images/player_blue.png" type="Texture" id=2]
+[ext_resource path="res://Assets/Images/rotation_arrow.png" type="Texture" id=3]
+[ext_resource path="res://Assets/Images/btnMove.png" type="Texture" id=4]
+[ext_resource path="res://Assets/Images/MovementPoint.png" type="Texture" id=5]
+[ext_resource path="res://Assets/Images/DiceDot.png" type="Texture" id=6]
 
 [sub_resource type="Curve2D" id=1]
 

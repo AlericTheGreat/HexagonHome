@@ -3,8 +3,8 @@ export var LabelText = "1"
 export var PlayerColor = "blue"
 export var Direction = 0
 var previous_dir = 0
-var BlueSprite = load("res://Assest/Images/player_blue.png")
-var RedSprite = load("res://Assest/Images/player_red.png")
+var BlueSprite = load("res://Assets/Images/player_blue.png")
+var RedSprite = load("res://Assets/Images/player_red.png")
 var rotations = [45,90,135,225,270,315,360]
 var movements = [Vector2(-64,-24),Vector2(-32,0),
 				Vector2(-32,24),Vector2(32,24),

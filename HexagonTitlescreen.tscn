@@ -1,14 +1,14 @@
 [gd_scene load_steps=10 format=1]
 
 [ext_resource path="res://HexagonTitlescreen.gd" type="Script" id=1]
-[ext_resource path="res://Assest/Images/BackgroundTitle.png" type="Texture" id=2]
-[ext_resource path="res://Assest/Images/TitleHome2.png" type="Texture" id=3]
-[ext_resource path="res://Assest/Images/TitleHome.png" type="Texture" id=4]
-[ext_resource path="res://Assest/Images/StartButton.png" type="Texture" id=5]
-[ext_resource path="res://Assest/Images/StartButton2.png" type="Texture" id=6]
-[ext_resource path="res://Assest/Images/ExitButton.png" type="Texture" id=7]
-[ext_resource path="res://Assest/Images/ExitButton2.png" type="Texture" id=8]
-[ext_resource path="res://Assest/Images/UnboxedSoul.png" type="Texture" id=9]
+[ext_resource path="res://Assets/Images/BackgroundTitle.png" type="Texture" id=2]
+[ext_resource path="res://Assets/Images/TitleHome2.png" type="Texture" id=3]
+[ext_resource path="res://Assets/Images/TitleHome.png" type="Texture" id=4]
+[ext_resource path="res://Assets/Images/StartButton.png" type="Texture" id=5]
+[ext_resource path="res://Assets/Images/StartButton2.png" type="Texture" id=6]
+[ext_resource path="res://Assets/Images/ExitButton.png" type="Texture" id=7]
+[ext_resource path="res://Assets/Images/ExitButton2.png" type="Texture" id=8]
+[ext_resource path="res://Assets/Images/UnboxedSoul.png" type="Texture" id=9]
 
 [node name="HexagonTitlescreen" type="Node2D"]
 

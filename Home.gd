@@ -3,8 +3,8 @@ extends Node2D
 # class member variables go here, for example:
 # var a = 2
 # var b = "textvar"
-var BlueSprite = load("res://Assest/Images/prisonBlue.png")
-var RedSprite = load("res://Assest/Images/prisonRed.png")
+var BlueSprite = load("res://Assets/Images/prisonBlue.png")
+var RedSprite = load("res://Assets/Images/prisonRed.png")
 export var playerColor = "blue"
 var residentCount = 0
 
