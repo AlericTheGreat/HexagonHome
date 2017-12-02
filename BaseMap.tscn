@@ -44,16 +44,16 @@ transform/pos = Vector2( 660, 100 )
 playerColor = "red"
 
 [node name="PlayerBlue1" parent="." groups=[
-"blue",
 "player",
+"blue",
 ] instance=ExtResource( 4 )]
 
 transform/pos = Vector2( -1.79364, 560.864 )
 Direction = 5
 
 [node name="PlayerBlue2" parent="." groups=[
-"blue",
 "player",
+"blue",
 ] instance=ExtResource( 4 )]
 
 transform/pos = Vector2( 61.3644, 560.864 )
@@ -61,8 +61,8 @@ LabelText = "2"
 Direction = 5
 
 [node name="PlayerBlue3" parent="." groups=[
-"blue",
 "player",
+"blue",
 ] instance=ExtResource( 4 )]
 
 transform/pos = Vector2( 122.306, 563.08 )
@@ -70,32 +70,32 @@ LabelText = "3"
 Direction = 5
 
 [node name="PlayerBlue4" parent="." groups=[
-"blue",
 "player",
+"blue",
 ] instance=ExtResource( 4 )]
 
 transform/pos = Vector2( 381.586, 561.972 )
 LabelText = "4"
 
 [node name="PlayerBlue5" parent="." groups=[
-"blue",
 "player",
+"blue",
 ] instance=ExtResource( 4 )]
 
 transform/pos = Vector2( 445.852, 563.08 )
 LabelText = "5"
 
 [node name="PlayerBlue6" parent="." groups=[
-"blue",
 "player",
+"blue",
 ] instance=ExtResource( 4 )]
 
 transform/pos = Vector2( 509.01, 560.864 )
 LabelText = "6"
 
 [node name="PlayerRed1" parent="." groups=[
-"red",
 "player",
+"red",
 ] instance=ExtResource( 4 )]
 
 transform/pos = Vector2( 3.75824, 74.0721 )
@@ -103,8 +103,8 @@ PlayerColor = "Red"
 Direction = 3
 
 [node name="PlayerRed6" parent="." groups=[
-"red",
 "player",
+"red",
 ] instance=ExtResource( 4 )]
 
 transform/pos = Vector2( 130.897, 72.5648 )
@@ -113,8 +113,8 @@ PlayerColor = "Red"
 Direction = 3
 
 [node name="PlayerRed5" parent="." groups=[
-"red",
 "player",
+"red",
 ] instance=ExtResource( 4 )]
 
 transform/pos = Vector2( 65.5591, 72.5648 )
@@ -123,8 +123,8 @@ PlayerColor = "Red"
 Direction = 3
 
 [node name="PlayerRed2" parent="." groups=[
-"red",
 "player",
+"red",
 ] instance=ExtResource( 4 )]
 
 transform/pos = Vector2( 514.562, 71.856 )
@@ -133,8 +133,8 @@ PlayerColor = "Red"
 Direction = 2
 
 [node name="PlayerRed3" parent="." groups=[
-"red",
 "player",
+"red",
 ] instance=ExtResource( 4 )]
 
 transform/pos = Vector2( 452.761, 71.856 )
@@ -143,8 +143,8 @@ PlayerColor = "Red"
 Direction = 2
 
 [node name="PlayerRed4" parent="." groups=[
-"red",
 "player",
+"red",
 ] instance=ExtResource( 4 )]
 
 transform/pos = Vector2( 384.931, 73.3634 )

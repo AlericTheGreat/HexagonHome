@@ -32,10 +32,11 @@ func get_cell_value(cell):
 	return get_node("TileMap").get_cellv(cell)
 
 func check_for_player(cell):
+	var bumped = []
 	for node in get_tree().get_nodes_in_group("player"):
-		if(node.get_current_pos() == cell or node.get_pos_on_board() == cell):
-			return node
-	return false
+		if(node.get_pos_on_board() == cell):
+			bumped.append(node)
+	return bumped
 
 func compare_players(p1,p2):
 	return p1.piece_value < p2.piece_value
@@ -47,9 +48,8 @@ func end_turn():
 	group_nodes.sort_custom(self,"compare_players")
 	for node in group_nodes:
 		node.move_on_board()
-	for node in group_nodes:
-		if(node.failed_bump):
-			node.move_on_board()
+		node.animate_move()
+			
 
 	#Swap players
 	if(current_player=="blue"):		
